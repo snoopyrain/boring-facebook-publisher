@@ -18,7 +18,7 @@ Publish and schedule posts to Facebook Pages. Powered by [Boring](https://boring
 ## Prerequisites
 
 1. **Get your API key** at [boring.aiagent-me.com](https://boring.aiagent-me.com) → Settings → Generate API Key
-2. **Install**: `pip install boring-mcp-server`
+2. **Add Remote MCP**: Add Boring MCP link `https://boring.aiagent-me.com/mcp` to Claude settings (no local install needed)
 3. **Set** `BORING_API_KEY` environment variable
 4. **Connect Facebook** at [boring.aiagent-me.com](https://boring.aiagent-me.com) — requires admin access to a Facebook Page
 
