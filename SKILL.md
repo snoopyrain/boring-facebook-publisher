@@ -1,6 +1,6 @@
 ---
-name: boring-facebook-publisher
-description: "Publish posts to Facebook Pages using Boring. Use when the user says 'post to Facebook', 'publish on FB', 'schedule Facebook post', 'manage Facebook scheduled posts', or wants to create text, photo, album, or video posts on their Facebook Page."
+name: facebook-publisher
+description: "Publish posts to Facebook Pages. Use when the user says 'post to Facebook', 'publish on FB', 'schedule Facebook post', 'manage Facebook scheduled posts', or wants to create text, photo, album, or video posts on their Facebook Page."
 version: 1.0.0
 metadata:
   openclaw:
