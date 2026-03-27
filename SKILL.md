@@ -80,7 +80,7 @@ Show the user:
 
 | Error | Solution |
 |-------|----------|
-| `InvalidApiKey` | Verify BORING_API_KEY is correct |
+| `InvalidApiKey` | MCP link may be invalid — regenerate it at boring.aiagent-me.com Settings |
 | `InvalidAccountId` | Run `boring_list_accounts` to get valid account IDs |
 | `MediaTooLarge` | Images max 4MB, videos max 1GB |
 | `PublishingFailed` | Check if Page permissions are correct at boring.aiagent-me.com |
